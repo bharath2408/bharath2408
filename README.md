@@ -1,6 +1,6 @@
 ### Hai, My Name is Bharatha Kumar 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... NextJs with Typescript..
 - 🌱 I’m currently learning Typescript, NextJs
 - 💬 Ask me about Reactjs, Django, python and javacript
 - 😄 Pronouns: He/His
@@ -8,6 +8,7 @@
 ## Skills:
 ### Frameworks:
   [![React][react-image]][react-url] [![Django][django-image]][django-url] [![Postman][postman-image]][postman-url] [![Jupyter][jupyter-image]][jupyter-url]
+  [![Nextjs][nextjs-image]][next-url]
   
 ### Languages:
   [![Javascript][javascript-image]][javascript-url] [![Python][python-image]][python-url] [![Html5][Html5-image]][Html5-url] [![Css3][css3-image]][css3-url]
@@ -45,5 +46,7 @@
 [vsc-url]: https://code.visualstudio.com/download
 [pycharm-image]: https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
 [pycharm-url]: https://www.jetbrains.com/pycharm/
+[nextjs-image]: (https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[next-url]: https://nextjs.org/
 [linkedin-image]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://in.linkedin.com/in/bharatha-kumar-bbb93b146?trk=author_mini-profile_title
