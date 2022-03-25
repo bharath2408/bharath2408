@@ -46,7 +46,7 @@
 [vsc-url]: https://code.visualstudio.com/download
 [pycharm-image]: https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
 [pycharm-url]: https://www.jetbrains.com/pycharm/
-[nextjs-image]: (https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[nextjs-image]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 [next-url]: https://nextjs.org/
 [linkedin-image]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://in.linkedin.com/in/bharatha-kumar-bbb93b146?trk=author_mini-profile_title
