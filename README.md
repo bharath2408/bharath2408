@@ -1,9 +1,7 @@
-### Hola, I'am Bharatha Kumar 👋
+### Hai, My Name is Bharatha Kumar 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, Machine learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Machine learning
+- 🌱 I’m currently learning Typescript, NextJs
 - 💬 Ask me about Reactjs, Django, python and javacript
 - 😄 Pronouns: He/His
 
