@@ -1,3 +1,5 @@
+![banner](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
+
 <h1 align="center">Hi 👋, I'm BHARATHAKUMAR</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
@@ -5,8 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath2408" alt="bharath2408" /></a> </p>
 
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **Mern Stack**
+
+- 💬 Ask me about **React, Java, JavaScript**
+
+- 📫 How to reach me **bharatha24kumar@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bharathakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharathakumar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
